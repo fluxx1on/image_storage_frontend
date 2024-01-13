@@ -1,0 +1,9 @@
+.container {
+  max-width: 1820px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+* {
+  font-family: "Inter";
+}
